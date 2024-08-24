@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishuitadotexe
+- 👋 Hi, I’m @ishitadotexe
 - 👀 I’m interested in coding (shocker, no?)
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me @ishlivesinfiction on instagram
